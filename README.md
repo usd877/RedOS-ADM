@@ -61,6 +61,9 @@ dnf install -y redadm redadm-reddc-manager
    - Имя контроллера: `<ИМЯ_КОНТРОЛЛЕРА>`
    - Служебный пользователь: `administrator` / `<ВАШ_ПАРОЛЬ>`
 
+<img width="906" height="843" alt="2026-03-06 11_21_01-РЕД АДМ - Вход_  InPrivate _ Microsoft​ Edge" src="https://github.com/user-attachments/assets/9976b125-c65e-4f32-8070-fc8b4fc50d33" />
+
+
 ---
 
 ## 3. ⚙️ Этап 2: Настройка контроллера домена (reddc)
