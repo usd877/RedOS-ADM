@@ -484,7 +484,9 @@ default_shell = /bin/bash
 enumerate = false
 ```
 
-<img width="1711" height="957" alt="2026-03-06 11_19_45-РЕД АДМ - Компьютеры_  InPrivate _ Microsoft​ Edge" src="https://github.com/user-attachments/assets/e19446ba-ae00-4119-9cbd-a5c5f665f1c5" />
+
+<img width="1711" height="957" alt="2026-03-06 11_19_45-РЕД АДМ - Компьютеры_  InPrivate _ Microsoft​ Edge" src="https://github.com/user-attachments/assets/f0e7f1dd-86dd-4e08-93da-ff5bea97cb7b" />
+
 
 <img width="1591" height="515" alt="2026-03-06 11_20_34-РЕД АДМ - Пользователи_  InPrivate _ Microsoft​ Edge" src="https://github.com/user-attachments/assets/b3ff15e0-f16b-4f7a-a97c-d356c0319058" />
 
