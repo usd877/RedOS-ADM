@@ -489,6 +489,13 @@ enumerate = false
 ```
 
 
+
+###  Результат: работающий контроллер домена
+
+После выполнения всех шагов вы должны увидеть работающий контроллер:
+
+
+
 <img width="1711" height="957" alt="2026-03-06 11_19_45-РЕД АДМ - Компьютеры_  InPrivate _ Microsoft​ Edge" src="https://github.com/user-attachments/assets/f0e7f1dd-86dd-4e08-93da-ff5bea97cb7b" />
 
 
